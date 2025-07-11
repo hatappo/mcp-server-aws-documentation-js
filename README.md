@@ -177,18 +177,6 @@ npm run typecheck
 - `vitest`: テストフレームワーク
 - `@types/*`: 型定義
 
-## ライセンス
-
-Apache-2.0
-
-## 作者
-
-Amazon Web Services
-
-## 貢献
-
-プロジェクトへの貢献をお待ちしています。プルリクエストやイシューの報告をお願いします。
-
 ## 関連リンク
 
 - [Model Context Protocol](https://modelcontextprotocol.io/)
