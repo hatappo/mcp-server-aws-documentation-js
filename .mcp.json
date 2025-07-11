@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "aws-documentation": {
+      "command": "node",
+      "args": ["dist/index.js"],
+      "env": {
+        "AWS_DOCUMENTATION_PARTITION": "aws"
+      }
+    }
+  }
+}
